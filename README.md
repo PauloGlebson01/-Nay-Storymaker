@@ -1,4 +1,4 @@
-🎬 Projeto de Site | Nayara Soares - Storymaker
+🎬 Projeto de Site | Nayara Soares - Storymaker e Criadora de Conteúdo Digital
 
 Este projeto apresenta o site oficial de Nayara Soares – Storymaker e Criadora de Conteúdo Digital, desenvolvido para destacar sua identidade profissional, serviços e portfólio em um ambiente moderno e responsivo.
 
